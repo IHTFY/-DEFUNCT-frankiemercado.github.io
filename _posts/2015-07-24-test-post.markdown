@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Test Post"
+date:   2015-07-24
+categories: test
+---
+Test post using Jekyll. [My YouTube page.][youtube]
+
+[youtube]: https://www.youtube.com/user/ihopethisfindsyou
