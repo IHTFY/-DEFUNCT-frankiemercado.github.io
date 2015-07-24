@@ -6,4 +6,6 @@ categories: test
 ---
 Test post using Jekyll. [My YouTube page.][youtube]
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a0RD0zhnc0g" frameborder="0" allowfullscreen></iframe>
+
 [youtube]: https://www.youtube.com/user/ihopethisfindsyou
