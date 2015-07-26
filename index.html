@@ -1,23 +1,59 @@
 ---
-layout: default
+layout: index
+title: Home
+permalink: /
 ---
 
-<div class="home">
+{% include portfolio.html title="NEWEST PROJECTS" limit=10 %}
 
-  <h1 class="page-heading">Posts</h1>
+<div id="service">
+    <div class="container">
+        <div class="row centered">
+		    <div class="col-md-4">
+                <i class="fa fa-female"></i>
+                <h4>My little sister is fashion </h4>
+                <p>She makes clothes.</p>
+                <p><br/><a href="https://www.facebook.com/pages/Anas-Designs/1396752543980360" class="btn btn-theme">See it</a></p>
+            </div>	
+            <div class="col-md-4">
+                <i class="fa fa-file-text-o"></i>
+                <h4>My other sister has a website, too!</h4>
+                <p>She likes to write things.</p>
+                <p><br/><a href="http://miamercado.com/" class="btn btn-theme">Read it</a></p>
+            </div>
+            <div class="col-md-4">
+                <i class="fa fa-book"></i>
+                <h4>My brother has a <a href="http://zoeymercado.blogspot.com/">blog.</a></h4>
+                <p>And he wrote a book!</p>
+                <p><br/><a href="http://www.amazon.com/Hope-For-My-Future-Thoughts/dp/1500739413" class="btn btn-theme">Get it</a></p>
+            </div>			
+        </div>
+    </div><! --/container -->
+</div><! --/service -->
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+<div class="container mtb">
+    <div class="row">
+        <div class="col-lg-4 col-lg-offset-1">
+            <h4>About me.</h4>
+            <p>{{ site.about }}</p>
+            <p><br/><a href="{{ "/about/" | prepend: site.baseurl }}" class="btn btn-theme">More Info</a></p>
+        </div>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+        <div class="col-lg-3">
+            <h4>Frequently Asked</h4>
+            <div class="hline"></div>
+            {% for post in site.categories['question'] %} 
+                <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
+            {% endfor %}
+        </div>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+        <div class="col-lg-3">
+            <h4>Latest Posts</h4>
+            <div class="hline"></div>
+            {% for post in site.categories['blog'] limit:5 %} 
+                <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a></p>
+            {% endfor %} 
+        </div>
 
-</div>
+    </div><! --/row -->
+</div><! --/container -->
