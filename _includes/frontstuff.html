@@ -1,0 +1,21 @@
+<!-- Tried to combine blog and projects into newest, blogs always last, and blog tile too small-has to do with portfolio-item -->>
+<div id="portfoliowrap">
+    <div class="portfolio-centered">
+        {% if include.title %}<h3>{{ include.title }}</h3>{% endif %}
+        <div class="recentitems portfolio">
+            {% for thing in site.categories['front'] limit:include.limit %}
+                <div class="portfolio-item graphic-design">
+                    <div class="he-wrap tpl6">
+                    <img src="{{ "/assets/img/" | prepend: site.baseurl | append: thing.categories[1] | append: "/" }}{{ thing.img }}" alt="">
+                        <div class="he-view">
+                            <div class="bg a0" data-animate="fadeIn">
+                                <h3 class="a1" data-animate="fadeInDown">{{ thing.title }}</h3>
+                                <a href="{{  thing.url | prepend: site.baseurl }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-arrow-right"></i></a>
+                            </div><!-- he bg -->
+                        </div><!-- he view -->
+                    </div><!-- he wrap -->
+                </div><!-- end col-12 -->
+            {% endfor %}
+        </div><!-- portfolio -->
+    </div><!-- portfolio container -->
+</div><!--/Portfoliowrap -->
