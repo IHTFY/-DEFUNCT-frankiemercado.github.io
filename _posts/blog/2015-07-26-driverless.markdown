@@ -7,8 +7,8 @@ categories:
 - blog 
 - driverless cars
 - artificial intelligence
-img: intro.jpg
-thumb: introsmall.jpg
+img: driverless.jpg
+thumb: driverlesssmall.jpg
 ---
 
 <b>Self-driving cars</b> are the future.
