@@ -7,7 +7,7 @@ categories:
 - project
 - wire wrapping
 img: wire.jpg
-thumb: wiresmall.jpg
+thumb: wire.jpg
 carousel:
 - eyering.jpg
 - twistring.jpg
