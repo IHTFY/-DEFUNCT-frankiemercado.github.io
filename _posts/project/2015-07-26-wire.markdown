@@ -1,0 +1,17 @@
+---
+layout: project
+title:  "WIRE"
+date:   2015-07-26 19:02:00
+author: Frankie
+categories:
+- project
+- wire wrapping
+img: wire.jpg
+thumb: wiresmall.jpg
+carousel:
+- eyering.jpg
+- twistring.jpg
+- letters.jpg
+---
+####WIRE STUFF
+Things I made by bending wire.
