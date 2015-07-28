@@ -12,7 +12,7 @@ thumb: wire.jpg
 carousel:
 - eyering.jpg
 - twistring.jpg
-- a.jpg
+- letterA.jpg
 - 9.jpg
 ---
 ####WIRE STUFF
