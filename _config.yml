@@ -2,7 +2,7 @@
 
 # Site settings
 title: IHTFY
-description: "Frankie Mercado's site."
+description: "Frankie Mercado's site. I hope this finds you."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "http://frankiemercado.com"
