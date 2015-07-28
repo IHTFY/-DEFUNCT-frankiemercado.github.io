@@ -16,4 +16,4 @@ carousel:
 - 9.jpg
 ---
 ####WIRE STUFF
-Things I made by bending wire.
+Things I've made by bending wire.
