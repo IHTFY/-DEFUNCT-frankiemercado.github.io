@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ac48e12-bc6a-4344-9914-e386acc29ab0" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Frankie\Documents\frankiemercado.github.io\assets\img\project\carousel\letters.jpg" afterPath="" />
-      <change type="MOVED" beforePath="C:\Users\Frankie\Documents\frankiemercado.github.io\assets\img\blog\driverless.jpg" afterPath="$PROJECT_DIR$/assets/img/blog/driverless.JPG" />
-      <change type="MOVED" beforePath="C:\Users\Frankie\Documents\frankiemercado.github.io\assets\img\project\carousel\twistring.jpg" afterPath="$PROJECT_DIR$/assets/img/project/carousel/twistring.JPG" />
-      <change type="MOVED" beforePath="C:\Users\Frankie\Documents\frankiemercado.github.io\assets\img\project\wire.jpg" afterPath="$PROJECT_DIR$/assets/img/project/wire.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/blog/thumbs/driverlesssmall.jpg" afterPath="$PROJECT_DIR$/assets/img/blog/thumbs/driverlesssmall.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/project/carousel/eyering.jpg" afterPath="$PROJECT_DIR$/assets/img/project/carousel/eyering.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/blog/2015-07-26-driverless.markdown" afterPath="$PROJECT_DIR$/_posts/blog/2015-07-26-driverless.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/project/2015-07-26-wire.markdown" afterPath="$PROJECT_DIR$/_posts/project/2015-07-26-wire.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/project.html" afterPath="$PROJECT_DIR$/_layouts/project.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="7ac48e12-bc6a-4344-9914-e386acc29ab0" name="Default" comment="" />
     <ignored path="frankiemercado.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -371,7 +359,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
