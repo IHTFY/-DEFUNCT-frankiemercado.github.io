@@ -1,12 +1,14 @@
 <div id="footerwrap">
     <div class="container">
         <div class="row" >
-            <div class="col-lg-3">
-                <h4>About</h4>
+            <div class="col-lg-4">
+                <h4>Frequently Asked</h4>
                 <div class="hline-w"></div>
-                <p>{{ site.about }}</p>
+                {% for post in site.categories['question'] %}
+                    <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
+                {% endfor %}
             </div>
-            <div class="col-lg-3">
+            <div class="col-lg-4">
                 <h4>Social Links</h4>
                 <div class="hline-w"></div>
                 <p>
@@ -15,17 +17,11 @@
                     {% endfor %}
                 </p>
             </div>
-<!--
             <div class="col-lg-4">
-                <h4>Our Bunker</h4>
+                <h4>About</h4>
                 <div class="hline-w"></div>
-                <p>
-                    {% for line in site.address.first.lines %}
-                        {{ line }} <br>
-                    {% endfor %}
-                </p>
+                <p>{{ site.about }}</p>
             </div>
--->
         </div><! --/row -->
     </div><! --/container -->
 </div><! --/footerwrap -->
