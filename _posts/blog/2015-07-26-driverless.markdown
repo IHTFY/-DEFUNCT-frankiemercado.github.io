@@ -5,11 +5,13 @@ date: 2015-07-26 18:20:00
 author: Frankie
 categories:
 - blog 
+tags:
 - driverless cars
 - artificial intelligence
 img: driverless.jpg
 thumb: driverlesssmall.jpg
 ---
+###Outline: In Progress
 
 <b>Self-driving cars</b> are the future.
 

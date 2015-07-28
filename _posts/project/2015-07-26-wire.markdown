@@ -5,13 +5,15 @@ date:   2015-07-26 19:02:00
 author: Frankie
 categories:
 - project
+tags:
 - wire wrapping
 img: wire.jpg
 thumb: wire.jpg
 carousel:
 - eyering.jpg
 - twistring.jpg
-- letters.jpg
+- a.jpg
+- 9.jpg
 ---
 ####WIRE STUFF
 Things I made by bending wire.
