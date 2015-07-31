@@ -16,22 +16,22 @@ thumb: driverlesssmall.jpg
 <b>Self-driving cars</b> are the future.
 
 
+####I don't like the loss of control.
+* How do you feel about riding in a taxi, or a bus, or when your fried gives you a ride?
+    * You don't have direct control of the car.
+    * Once you trust the vehicle to respond to your concerns or handle them without intervention, it wins.
+
 ####What if something jumps in front of the car?
 * What would you do?
     * Sometimes things are just unavoidable
 * How is this system superior?
-    * Reflexes
-    * Types of sensors
+    * Much faster reaction time
+    * More types of sensors
 
 ####What if it loses control/makes a mistake/gets hacked?
 * Again, people make mistakes, too
 * How is this system superior?
     * Never tired, always focused
-
-####I don't like the loss of control.
-* How do you feel about riding in a taxi, or a bus, or when your fried gives you a ride?
-    * You don't have direct control of the car.
-    * Once you trust the vehicle to respond to your concerns or handle them without intervention, it wins.
 
 ####Benefits
 * efficient
@@ -44,7 +44,7 @@ thumb: driverlesssmall.jpg
         * no stopping at intersections
         * just program in GPS and car follows
 * accessibility
-    * physically or developmentally disabled, children can be mobile
+    * physically or developmentally disabled and children can be mobile
 * safety
     * faster reactions
     * possibility for communication with other autonomous vehicles
