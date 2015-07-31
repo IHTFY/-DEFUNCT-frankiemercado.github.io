@@ -20,6 +20,12 @@ thumb: driverlesssmall.jpg
 * How do you feel about riding in a taxi, or a bus, or when your fried gives you a ride?
     * You don't have direct control of the car.
     * Once you trust the vehicle to respond to your concerns or handle them without intervention, it wins.
+    * To begin, it is an extension of driver-assistance features
+        * Traction control
+        * ABS braking
+        * Cruise control
+        * Back-up sensors/cameras
+
 
 ####What if something jumps in front of the car?
 * What would you do?
