@@ -54,6 +54,7 @@ members:
         url: http://www.amazon.com/Hope-For-My-Future-Thoughts/dp/1500739413
       - title: pencil
         url: http://zoeymercado.blogspot.com/
+
   -  name: Mia
      position: My sister.
      text: TODO
@@ -63,7 +64,7 @@ members:
          url: mailto:mia@miamercado.com
        - title: twitter
          url: http://twitter.com/miamarket
-     
+
   -  name: Frankie
      position: Me.
      text: TODO
@@ -73,7 +74,7 @@ members:
        url: mailto:f@frankiemercado.com
      - title: twitter
        url: http://twitter.com/IHTFY
-     
+
   -  name: Ana
      position: My sister.
      text: TODO
