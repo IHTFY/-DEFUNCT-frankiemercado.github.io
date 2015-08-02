@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  "mmfunk"
-date:   2015-07-26 19:02:00
+date:   2015-08-02 19:02:00
 author: Frankie
 categories:
 - project
