@@ -1,9 +1,0 @@
----
-layout: question
-title:  "Really?"
-date:   2014-07-25 10:00:00
-author: Frankie
-categories:
-- question
----
-Yes.

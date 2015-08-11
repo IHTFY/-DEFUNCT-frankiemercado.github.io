@@ -1,0 +1,9 @@
+---
+layout: question
+title:  "None"
+date:   2015-08-11 14:00:00
+author: Frankie
+categories:
+- question
+---
+Nobody has asked anything, ever.
