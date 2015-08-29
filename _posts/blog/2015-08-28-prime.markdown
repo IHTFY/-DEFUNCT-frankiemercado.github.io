@@ -14,6 +14,8 @@ thumb: primessmall.png
 I made this in March of 2015. I was playing around with pygame and was learning how to assign colors to specific pixels. 
 Composite numbers are black, twin primes are green, and other primes are blue. Pixels are enumerated from 0 starting at the top left and read like a book.
 
+###4K Version: [Click Here](/assets/img/blog/4Kprimes.png)
+
 Note: '2' should be blue, but I never fixed that.
 
 ###Source:
@@ -125,6 +127,3 @@ Note: '2' should be blue, but I never fixed that.
     if __name__ == '__main__':
         main()
 		
-###4K Version:
-		
-![4K version](/assets/img/blog/4Kprimes.png "4K Primes")
