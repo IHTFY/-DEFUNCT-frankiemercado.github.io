@@ -5,6 +5,7 @@ date: 2015-07-26 18:20:00
 author: Frankie
 categories:
 - blog 
+- future
 tags:
 - driverless cars
 - artificial intelligence

@@ -5,6 +5,8 @@ date: 2015-08-28 20:11:00
 author: Frankie
 categories:
 - blog 
+- math
+- code
 tags:
 - math
 - programming
