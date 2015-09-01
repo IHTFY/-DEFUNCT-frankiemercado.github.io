@@ -11,7 +11,6 @@ url: "http://frankiemercado.com"
 markdown: kramdown
 permalink: /:year/:month/:title/
 excerpt_separator: "\n" #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
-highlighter: rouge
 
 colors:  #in hex code if not noted else
   primary: "#3366CC" #"#F70031" 
