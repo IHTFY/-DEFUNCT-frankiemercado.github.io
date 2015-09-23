@@ -9,13 +9,26 @@ tags:
 - photography
 img: globes.jpg
 thumb: globes.jpg
+carousel:
+- globes/beach.jpg
+- globes/farm.jpg
+- globes/field.jpg
+- globes/frisbee.jpg
+- globes/mendotapier.jpg
+- globes/mononaglobe.jpg
+- globes/parkbridge.jpg
+- globes/parkbridge2.jpg
+- globes/picnicbeach.jpg
+- globes/picnicpoint.jpg
+- globes/playground.jpg
+- globes/shell.jpg
+- globes/terrace.jpg
+- globes/tn.jpg
+- globes/tnbridge.jpg
+- globes/tower.jpg
 ---
-#Globes
+These images were created using PTGui and Photoshop.
 
 ###Time-lapse
 I took a series of 360x180 spherical panoramas at Picnic Point in Madison at sunset. In high light levels I use high speed bursts of photos, like a low frame rate movie. Stitching the photos becomes very simple with so many photos. In low light, the images blur making it harder to stitch. Next time I do a low light panorama I'll try a different tecnique.
 <img class="img-responsive" src="{{ "/assets/img/project/timelapse.gif" | prepend: site.baseurl }}" width="550" height="550" alt="">
-
-###More Planets
-These images were created using PTGui and Photoshop:
-<iframe src="https://drive.google.com/embeddedfolderview?id=0B1u9SrmDzT0SR3ZTczRBZlVtNm8#grid" width="550" height="550" frameborder="0"></iframe>
