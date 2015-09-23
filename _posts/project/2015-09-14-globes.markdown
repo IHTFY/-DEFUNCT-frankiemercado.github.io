@@ -10,5 +10,12 @@ tags:
 img: globes.jpg
 thumb: globes.jpg
 ---
-####Globes
+#Globes
+
+###Timelapse
+I took a series of 360x180 spherical panoramas at Picnic Point in Madison at sunset. In high light levels I use high speed bursts of photos, like a low frame rate movie. Stitching the photos becomes very simple with so many photos. In low light, the images blur making it harder to stitch. Next time I do a low light panorama I'll try a different tecnique.
+<img class="img-responsive" src="{{ "/assets/img/project/timelapse.gif" | prepend: site.baseurl }}" width="550" height="550" alt="">
+
+###More Planets
+These images were created using PTGui and Photoshop:
 <iframe src="https://drive.google.com/embeddedfolderview?id=0B1u9SrmDzT0SR3ZTczRBZlVtNm8#grid" width="550" height="550" frameborder="0"></iframe>
