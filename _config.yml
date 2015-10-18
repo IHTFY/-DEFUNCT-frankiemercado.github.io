@@ -47,7 +47,7 @@ social:
 members:
   - name: Zoey
     position: My brother.
-    text: TODO
+    #text: TODO
     img: zoey.jpg
     social:
       - title: book
@@ -57,7 +57,7 @@ members:
 
   -  name: Mia
      position: My sister.
-     text: TODO
+     #text: TODO
      img: mia.jpg
      social:
        - title: envelope #use for email address
@@ -67,7 +67,7 @@ members:
 
   -  name: Frankie
      position: Me.
-     text: TODO
+     #text: TODO
      img: frankie.jpg
      social:
      - title: envelope #use for email address
@@ -77,7 +77,7 @@ members:
 
   -  name: Ana
      position: My sister.
-     text: TODO
+     #text: TODO
      img: ana.jpg
      social:
        - title: facebook
