@@ -63,7 +63,7 @@ members:
      img: mia.jpg
      social:
        - title: envelope #use for email address
-         url: mailto:mia@miamercado.com
+         url: mia@miamercado.com
        - title: twitter
          url: http://twitter.com/miamarket
 

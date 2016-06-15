@@ -12,12 +12,12 @@ tags:
 img: driverless.jpg
 thumb: driverlesssmall.jpg
 ---
-###Outline: In Progress
+### Outline: In Progress
 
 <b>Self-driving cars</b> are the future.
 
 
-####I don't like the loss of control.
+#### I don't like the loss of control.
 * How do you feel about riding in a taxi, or a bus, or when your fried gives you a ride?
     * You don't have direct control of the car.
     * Once you trust the vehicle to respond to your concerns or handle them without intervention, it wins.
@@ -28,19 +28,19 @@ thumb: driverlesssmall.jpg
         * Back-up sensors/cameras
 
 
-####What if something jumps in front of the car?
+#### What if something jumps in front of the car?
 * What would you do?
     * Sometimes things are just unavoidable
 * How is this system superior?
     * Much faster reaction time
     * More types of sensors
 
-####What if it loses control/makes a mistake/gets hacked?
+#### What if it loses control/makes a mistake/gets hacked?
 * Again, people make mistakes, too
 * How is this system superior?
     * Never tired, always focused
 
-####Benefits
+#### Benefits
 * efficient
     * gas economy
     * human productivity
