@@ -13,12 +13,13 @@ permalink: /:year/:month/:title/
 excerpt_separator: "\n" #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
 colors:  #in hex code if not noted else
-  primary: "#3366CC" #"#F70031" 
-  primary_rgb: "51,102,204" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.  
-  secondary: "#003366" #"#33004D"
+#https://coolors.co/1f1f1f-033f66-2978a0-50c9ce-f0f0f0
+  primary: "#2978A0"
+  primary_rgb: "41,120,160" #rgb of the primary. Needed in some places for the transparency effect.  
+  secondary: "#1F1F1F"
   link: "#428bca"
   link_hover: "#01b2fe"
-  footer_heading: "#ffffff"
+  footer_heading: "#F0F0F0"
   footer_content: "#bfc9d3"
   
   
@@ -74,8 +75,8 @@ members:
      social:
      - title: envelope #use for email address
        url: mailto:f@frankiemercado.com
-     - title: twitter
-       url: http://twitter.com/IHTFY
+     - title: instagram
+       url: https://www.instagram.com/ihtfy/
 
   -  name: Ana
      position: My sister.
