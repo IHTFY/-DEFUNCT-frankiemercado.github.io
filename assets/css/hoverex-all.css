@@ -1014,7 +1014,7 @@
 }
  100% {
  opacity:1;
- -webkit-transform:translateY(0%);
+ -webkit-transform:translateY(50%);
 }
 }
 @-moz-keyframes fadeInDown {
