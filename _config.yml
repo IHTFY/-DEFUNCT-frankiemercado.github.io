@@ -9,6 +9,8 @@ url: "http://frankiemercado.com"
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
 permalink: /:year/:month/:title/
 excerpt_separator: "\n" #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
