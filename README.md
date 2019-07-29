@@ -1,1 +1,1 @@
-This site is dead :( But I have FrankieMercado.com and IHTFY.com
+This site is dead :( But I have https://FrankieMercado.com/ and http://IHTFY.com
